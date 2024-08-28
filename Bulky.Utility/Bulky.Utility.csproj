@@ -1,0 +1,86 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net6.0\Bulky.Utility.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\Bulky.Utility.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\BulkyBook.Utility.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0\Bulky.Utility.GlobalUsings.g.cs" />
+    <Compile Include="obj\Release\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Release\net6.0\Bulky.Utility.AssemblyInfo.cs" />
+    <Compile Include="obj\Release\net6.0\Bulky.Utility.GlobalUsings.g.cs" />
+    <Compile Include="obj\Release\net6.0\BulkyBook.Utility.AssemblyInfo.cs" />
+    <Compile Include="obj\Release\net6.0\BulkyBook.Utility.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0\Bulky.Utility.deps.json" />
+    <Content Include="bin\Debug\net6.0\BulkyBook.Utility.deps.json" />
+    <Content Include="obj\Bulky.Utility.csproj.nuget.dgspec.json" />
+    <Content Include="obj\BulkyBook.Utility.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Debug\net6.0\Bulky.Utility.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net6.0\BulkyBook.Utility.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net6.0\Bulky.Utility.dll" />
+    <None Include="bin\Debug\net6.0\Bulky.Utility.pdb" />
+    <None Include="bin\Debug\net6.0\BulkyBook.Utility.dll" />
+    <None Include="bin\Debug\net6.0\BulkyBook.Utility.pdb" />
+    <None Include="Bulky.Utility.csproj" />
+    <None Include="BulkyBook.Utility.csproj" />
+    <None Include="obj\Bulky.Utility.csproj.nuget.g.props" />
+    <None Include="obj\Bulky.Utility.csproj.nuget.g.targets" />
+    <None Include="obj\BulkyBook.Utility.csproj.nuget.g.props" />
+    <None Include="obj\BulkyBook.Utility.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\net6.0\Bulky.Utility.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0\Bulky.Utility.assets.cache" />
+    <None Include="obj\Debug\net6.0\Bulky.Utility.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net6.0\Bulky.Utility.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net6.0\Bulky.Utility.dll" />
+    <None Include="obj\Debug\net6.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0\Bulky.Utility.pdb" />
+    <None Include="obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0\BulkyBook.Utility.assets.cache" />
+    <None Include="obj\Debug\net6.0\BulkyBook.Utility.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net6.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net6.0\BulkyBook.Utility.dll" />
+    <None Include="obj\Debug\net6.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0\BulkyBook.Utility.pdb" />
+    <None Include="obj\Debug\net6.0\refint\Bulky.Utility.dll" />
+    <None Include="obj\Debug\net6.0\refint\BulkyBook.Utility.dll" />
+    <None Include="obj\Debug\net6.0\ref\Bulky.Utility.dll" />
+    <None Include="obj\Debug\net6.0\ref\BulkyBook.Utility.dll" />
+    <None Include="obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0\Bulky.Utility.assets.cache" />
+    <None Include="obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\Release\net6.0\Bulky.Utility.AssemblyInfoInputs.cache" />
+    <None Include="obj\Release\net6.0\Bulky.Utility.assets.cache" />
+    <None Include="obj\Release\net6.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Release\net6.0\BulkyBook.Utility.AssemblyInfoInputs.cache" />
+    <None Include="obj\Release\net6.0\BulkyBook.Utility.assets.cache" />
+    <None Include="obj\Release\net6.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net8.0\" />
+    <Folder Include="bin\Release\net6.0\" />
+    <Folder Include="obj\Debug\net8.0\refint\" />
+    <Folder Include="obj\Debug\net8.0\ref\" />
+    <Folder Include="obj\Release\net6.0\refint\" />
+    <Folder Include="obj\Release\net6.0\ref\" />
+  </ItemGroup>
+
+</Project>

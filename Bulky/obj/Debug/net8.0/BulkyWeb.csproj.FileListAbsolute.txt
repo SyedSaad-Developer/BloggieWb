@@ -1,0 +1,8 @@
+C:\Users\saad.ahmed\source\repos\Bulky\Bulky\obj\Debug\net8.0\BulkyWeb.csproj.AssemblyReference.cache
+C:\Users\saad.ahmed\source\repos\Bulky\Bulky\obj\Debug\net8.0\BulkyWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saad.ahmed\source\repos\Bulky\Bulky\obj\Debug\net8.0\BulkyWeb.AssemblyInfoInputs.cache
+C:\Users\saad.ahmed\source\repos\Bulky\Bulky\obj\Debug\net8.0\BulkyWeb.AssemblyInfo.cs
+C:\Users\saad.ahmed\source\repos\Bulky\Bulky\obj\Debug\net8.0\BulkyWeb.csproj.CoreCompileInputs.cache
+C:\Users\saad.ahmed\source\repos\Bulky\Bulky\obj\Debug\net8.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\saad.ahmed\source\repos\Bulky\Bulky\obj\Debug\net8.0\BulkyWeb.RazorAssemblyInfo.cache
+C:\Users\saad.ahmed\source\repos\Bulky\Bulky\obj\Debug\net8.0\BulkyWeb.RazorAssemblyInfo.cs

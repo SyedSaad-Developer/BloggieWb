@@ -1,0 +1,86 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net6.0\Bulky.Models.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\Bulky.Models.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net6.0\BulkyBook.Models.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\BulkyBook.Models.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0\Bulky.Models.GlobalUsings.g.cs" />
+    <Compile Include="obj\Release\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Release\net6.0\Bulky.Models.AssemblyInfo.cs" />
+    <Compile Include="obj\Release\net6.0\Bulky.Models.GlobalUsings.g.cs" />
+    <Compile Include="obj\Release\net6.0\BulkyBook.Models.AssemblyInfo.cs" />
+    <Compile Include="obj\Release\net6.0\BulkyBook.Models.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0\Bulky.Models.deps.json" />
+    <Content Include="bin\Debug\net6.0\BulkyBook.Models.deps.json" />
+    <Content Include="obj\Bulky.Models.csproj.nuget.dgspec.json" />
+    <Content Include="obj\BulkyBook.Models.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Debug\net6.0\Bulky.Models.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net6.0\BulkyBook.Models.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net6.0\Bulky.Models.dll" />
+    <None Include="bin\Debug\net6.0\Bulky.Models.pdb" />
+    <None Include="bin\Debug\net6.0\BulkyBook.Models.dll" />
+    <None Include="bin\Debug\net6.0\BulkyBook.Models.pdb" />
+    <None Include="Bulky.Models.csproj" />
+    <None Include="BulkyBook.Models.csproj" />
+    <None Include="obj\Bulky.Models.csproj.nuget.g.props" />
+    <None Include="obj\Bulky.Models.csproj.nuget.g.targets" />
+    <None Include="obj\BulkyBook.Models.csproj.nuget.g.props" />
+    <None Include="obj\BulkyBook.Models.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\net6.0\Bulky.Models.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0\Bulky.Models.assets.cache" />
+    <None Include="obj\Debug\net6.0\Bulky.Models.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net6.0\Bulky.Models.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net6.0\Bulky.Models.dll" />
+    <None Include="obj\Debug\net6.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0\Bulky.Models.pdb" />
+    <None Include="obj\Debug\net6.0\BulkyBook.Models.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0\BulkyBook.Models.assets.cache" />
+    <None Include="obj\Debug\net6.0\BulkyBook.Models.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net6.0\BulkyBook.Models.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net6.0\BulkyBook.Models.dll" />
+    <None Include="obj\Debug\net6.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0\BulkyBook.Models.pdb" />
+    <None Include="obj\Debug\net6.0\refint\Bulky.Models.dll" />
+    <None Include="obj\Debug\net6.0\refint\BulkyBook.Models.dll" />
+    <None Include="obj\Debug\net6.0\ref\Bulky.Models.dll" />
+    <None Include="obj\Debug\net6.0\ref\BulkyBook.Models.dll" />
+    <None Include="obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0\Bulky.Models.assets.cache" />
+    <None Include="obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\Release\net6.0\Bulky.Models.AssemblyInfoInputs.cache" />
+    <None Include="obj\Release\net6.0\Bulky.Models.assets.cache" />
+    <None Include="obj\Release\net6.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Release\net6.0\BulkyBook.Models.AssemblyInfoInputs.cache" />
+    <None Include="obj\Release\net6.0\BulkyBook.Models.assets.cache" />
+    <None Include="obj\Release\net6.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net8.0\" />
+    <Folder Include="bin\Release\net6.0\" />
+    <Folder Include="obj\Debug\net8.0\refint\" />
+    <Folder Include="obj\Debug\net8.0\ref\" />
+    <Folder Include="obj\Release\net6.0\refint\" />
+    <Folder Include="obj\Release\net6.0\ref\" />
+  </ItemGroup>
+
+</Project>
